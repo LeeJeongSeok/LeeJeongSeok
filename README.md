@@ -1,6 +1,6 @@
 ### Hi there
 
-9월 20일까지 수정 예정
+9월 21일까지 수정 예정
 
 <!--
 **LeeJeongSeok/LeeJeongSeok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
