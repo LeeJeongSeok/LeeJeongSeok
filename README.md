@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👋 Find More Info [BLOG](https://velog.io/@ljs0429777) | [RESUME](https://gold-barge-fc2.notion.site/215c188202bb4a45aad400434230e6b4)
+- 👋 Find More Info [BLOG]([https://velog.io/@ljs0429777](https://apple-tr.tistory.com/))
 
 ![JeongSeok's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeJeongSeok&show_icons=true&theme=radical)
