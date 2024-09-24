@@ -12,5 +12,5 @@
 ### Blog
 
 개발하면서 겪었던 문제 혹은 학습하는 내용들을 설명하듯이 블로그에 적고 있습니다.
-- [블로그](https://apple-tr.tistory.com/)
+- [개발 블로그](https://apple-tr.tistory.com/)
 
